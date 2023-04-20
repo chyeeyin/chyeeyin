@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @chyeeyin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @chyeeyin
+👀 I’m interested in coding, especially HTML, CSS, JS
+🌱 I’m currently studying Business and Financial Technology for my Diploma Certification in Singapore
 
 <!--- Statistics--->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyeeyin&hide_progress=true)](https://github.com/chyeeyin/github-readme-stats)
@@ -11,6 +9,8 @@
 
 
 
+<h2>Tools</h2>
+GitHub Readme Stats - https://github.com/anuraghazra/github-readme-stats
 
 
 
