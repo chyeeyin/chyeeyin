@@ -1,6 +1,6 @@
 👋 Hi, I’m @chyeeyin
 👀 I’m interested in coding, especially HTML, CSS, JS
-🌱 I’m currently studying Business and Financial Technology for my Diploma Certification in Singapore
+🌱 I’m currently an undergraduate with Bachelor of Science (Honours) in Computer Science (Web and Mobile Development) in Singapore Institute of Management in collaboration with University of London. I have graduated my Diploma Certification of Business and Financial Technology in Nanyang Polytechnic Singapore.
 
 <!--- Statistics--->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyeeyin&hide_progress=true)](https://github.com/chyeeyin/github-readme-stats)
